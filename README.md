@@ -88,4 +88,4 @@ The project demonstrates:
 
 ## Author
 
-**Samuvel**
+**Samuvel.U**
